@@ -44,8 +44,8 @@ Tkinter is usually included with Python installations. If not, you may need to i
 
 Clone the repository:
 
-git clone https://github.com/your-username/sentiment-analyzer.git
-cd sentiment-analyzer
+git clone https://github.com/Runasth/Python_Sentiment_Analyzer.git
+cd Python_Sentiment_Analyzer
 
 Run the application:
 
